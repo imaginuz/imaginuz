@@ -1,6 +1,11 @@
 # Hi, my name is Ricardo🤖
 ## -🌱 I’m currently learning
 
+Soy estudiante de Ingeniería en Ciencias De La Computación en la Universidad Católica de Honduras.
+
+## Tecnologias
+
+
 <!--
 **imaginuz/imaginuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
