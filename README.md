@@ -37,9 +37,6 @@ Soy un apasionado estudiante de Ingeniería en Ciencias de la Computación en la
 
 ## 📫 Cómo Contactarme
 <div align="center">
-  <a href="[Tu LinkedIn]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="mailto:[ricardo.zunigadev@gmail.com]">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
