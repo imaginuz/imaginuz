@@ -29,13 +29,10 @@ Soy un apasionado estudiante de Ingeniería en Ciencias de la Computación en la
 </div>
 
 ## 📚 Actualmente Aprendiendo
-- Desarrollo de Aplicaciones Web Modernas
-- Buenas Prácticas de Programación
+-  💻 Desarrollo de Aplicaciones Web Modernas
+-  🌱 Buenas Prácticas de Programación
 
-## 🌟 Proyectos Destacados
-[Próximamente...]
-
-## 📫 Cómo Contactarme
+## 📫 Contáctame
 <div align="center">
   <a href="mailto:[ricardo.zunigadev@gmail.com]">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -62,18 +59,3 @@ Soy un apasionado estudiante de Ingeniería en Ciencias de la Computación en la
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=imaginuz&color=blueviolet" alt="Profile views" />
 </div>
-
-<!--
-**imaginuz/imaginuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
