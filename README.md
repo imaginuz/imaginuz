@@ -1,15 +1,18 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=900&color=00C2FF&center=true&vCenter=true&width=900&lines=Hola%2C+soy+Ricardo+Zuniga;Ingeniero+en+Sistemas;Desarrollador+Full+Stack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=900&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Ricardo+Zuniga;Systems+Engineer;Full+Stack+Developer" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Role-Ingeniero%20en%20Sistemas-0A66C2?style=for-the-badge" alt="Role" />
+  <img src="https://img.shields.io/badge/Role-Systems%20Engineer-0A66C2?style=for-the-badge" alt="Role" />
   <img src="https://img.shields.io/badge/Focus-Web%20Apps%20%7C%20Backend%20%7C%20UI%2FUX-111827?style=for-the-badge" alt="Focus" />
 </div>
 
-## Sobre Mi
-Ingeniero en Sistemas | Full Stack Developer. Enfocado en arquitecturas backedn escalables y soluciones web empresariales end-to-end.
-## Stack Tecnologico
+## About Me
+
+Systems Engineer | Full Stack Developer. Focused on scalable backend architectures and end-to-end enterprise web solutions.
+
+## Tech Stack
+
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -28,28 +31,28 @@ Ingeniero en Sistemas | Full Stack Developer. Enfocado en arquitecturas backedn 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </div>
 
-## Actualmente
-- Disenando y desarrollando aplicaciones web modernas
-- Mejorando arquitectura, calidad de codigo y buenas practicas
-- Explorando integraciones entre backend, datos y automatizacion
+## Currently
+
+- Designing and developing modern web applications
+- Improving architecture, code quality, and engineering best practices
+- Exploring backend, data, and automation integrations
 
 ## Late Night Coding Vibes
+
 <div align="center">
   <a href="https://open.spotify.com/intl-es/track/4xkOaSrkexMciUUogZKVTS" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-Me%20Reh%C3%BAso%20%E2%80%A2%20Danny%20Ocean-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Track" />
   </a>
 </div>
 
-<div align="center">
-  <a href="https://open.spotify.com/intl-es/track/4xkOaSrkexMciUUogZKVTS" target="_blank">
-    <img src="https://i.scdn.co/image/ab67616d0000b273fec7e81c7f3f0e8d6f317f34" alt="Me Rehuso - Danny Ocean" width="220" />
-  </a>
-</div>
+## Contact
 
-## Contacto
 <div align="center">
-  <a href="mailto:ricardo.zunigadev@gmail.com">
+  <a href="mailto:zunig4business@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/imaginuz">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/imaginuz">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
