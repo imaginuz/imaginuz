@@ -40,7 +40,7 @@ Systems Engineer | Full Stack Developer. Focused on scalable backend architectur
 ## Late Night Coding Vibes
 
 <div align="center">
-  <a href="https://open.spotify.com/intl-es/track/4xkOaSrkexMciUUogZKVTS" target="_blank">
+  <a href="https://open.spotify.com/intl-es/track/6De0lHrwBfPfrhorm9q1Xl?si=aeb91f24ed45489b" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-Me%20Reh%C3%BAso%20%E2%80%A2%20Danny%20Ocean-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Track" />
   </a>
 </div>
