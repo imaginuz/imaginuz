@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./pixel-bat.svg" width="300" alt="Pixel Bat Animation">
+  <img src="./bat-animation.gif" width="300" alt="Pixel Bat Animation">
 </p>
 
 <div align="center">
