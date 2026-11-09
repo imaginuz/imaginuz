@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./pixel-bat.svg" width="300" alt="Pixel Bat Animation">
+</p>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=900&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Ricardo+Zuniga;Systems+Engineer;Full+Stack+Developer" alt="Typing SVG" />
 </div>
